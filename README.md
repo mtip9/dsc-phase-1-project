@@ -18,7 +18,7 @@ Access to data of over 1000 films from over the past 100 years. Types of data fo
 
 
 
-![ROI per Month]([ROI per Month.png](https://github.com/mtip9/dsc-phase-1-project/blob/master/ROI%20per%20Month.png))
+![ROI per Month](https://github.com/mtip9/dsc-phase-1-project/blob/master/ROI%20per%20Month.png)
 
 ## Conclusions
 
