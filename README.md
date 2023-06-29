@@ -18,7 +18,7 @@ Access to data of over 1000 films from over the past 100 years. Types of data fo
 
 
 
-![ROI per Month](./Month)
+![ROI per Month](.Month)
 ## Conclusions
 
 
