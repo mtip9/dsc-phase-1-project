@@ -48,6 +48,6 @@ The analaysis of films above provides three recommendations for Microsoft:
 
 ## For More Information
 
-
+See the full analysis in the [Jupyter Notebook](Movie_Studio_Analysis.ipynb) or review 
 
 ## Repository Structure
