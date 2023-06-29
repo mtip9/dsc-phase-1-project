@@ -48,6 +48,16 @@ The analaysis of films above provides three recommendations for Microsoft:
 
 ## For More Information
 
-See the full analysis in the [Jupyter Notebook](Movie_Studio_Analysis.ipynb) or review 
+See the full analysis in the [Jupyter Notebook](Movie_Studio_Analysis.ipynb) or review [Presentation](Movie_Studio_Presentation.pdf)
 
 ## Repository Structure
+
+```
+├── ZippedData
+├── Movie_Studio_Analysis.ipynb
+├── Movie_Studio_Presentation.pdf
+├── README.md
+├── ROI per Month.png
+├── ROI per Movie Length.png
+└── Top Genres in Top 100 ROI.png
+```
