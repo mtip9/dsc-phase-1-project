@@ -16,7 +16,7 @@ Access to data of over 1000 films from over the past 100 years. Types of data fo
 
 ## Results
 
-
+Films released in the months of July, August, and November have had the greatest ROI.
 
 ![ROI per Month](https://github.com/mtip9/dsc-phase-1-project/blob/master/ROI%20per%20Month.png)
 
