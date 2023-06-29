@@ -32,19 +32,19 @@ Genres of dramas, horrors, and thrillers are the most represented and profitable
 
 The analaysis of films above provides three recommendations for Microsoft:
 
-- **Films should be released in the months of July and August. These months have the greatest ROI compared to the other months of the year.
+- Films should be released in the months of July and August. These months have the greatest ROI compared to the other months of the year.
 
-- **Films should be made with runtimes of 90 minutes or shorter. There is a correlation between production budget and movie length; the shorter a film is, the lower the budget. By making a film under 90 minutes, not only is less money required to make the film, data suggests that there will be a greater return on investment.
+- Films should be made with runtimes of 90 minutes or shorter. There is a correlation between production budget and movie length; the shorter a film is, the lower the budget. By making a film under 90 minutes, not only is less money required to make the film, data suggests that there will be a greater return on investment.
 
 - Films made by Microsoft should either be dramas, horrors, or thrillers. These three genres are the most profitable genres found in the dataframe of top 100 films categorized by ROI.
 
 ## Next Steps
 
-- **Source actors/actresses that have been successful in past films. We can research some of the best in the industry to produce a top grossing film.
+- Source actors/actresses that have been successful in past films. We can research some of the best in the industry to produce a top grossing film.
 
-- **Explore soundtracks that have increased popularity in a film. A films popularity can greatly increase by the traction the soundtrack gets. Doing research on past soundtrack artists and producers can help a film shine.
+- Explore soundtracks that have increased popularity in a film. A films popularity can greatly increase by the traction the soundtrack gets. Doing research on past soundtrack artists and producers can help a film shine.
 
-- **Find directors associated with successful films. Directors can make or break a films success. By exploring top grossing directors, Microsoft can recruit the best to produce their films.
+- Find directors associated with successful films. Directors can make or break a films success. By exploring top grossing directors, Microsoft can recruit the best to produce their films.
 
 ## For More Information
 
