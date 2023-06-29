@@ -1,8 +1,6 @@
-# Phase 1 Project Description
+# Movie Studio Analysis
 
-You've made it all the way through the first phase of this course - take a minute to celebrate your awesomeness!
-
-![awesome](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project-v2-4/master/awesome.gif)
+**Author**: [Michael Tsypin](email:mtsypin9@yahoo.com)
 
 Now you will put your new skills to use with a large end-of-Phase project!
 
