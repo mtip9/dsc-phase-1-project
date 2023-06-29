@@ -10,20 +10,25 @@ The purpose of this project is to analyze how films performed at the box office,
 
 Microsoft has decided to venture into the film industry, but they need some insight on how to create profitable projects. Through research, we can analyze successful films in the past to deteremine what would help Microsoft excel above their competitors. By collecting data from a wide variety of films, we can provide Microsoft recommendations on how they can produce the most successful films.
 
-## Data
+## Data and Methods
 
-
-
-## Methods
-
+Access to data of over 1000 films from over the past 100 years. Types of data for each film includes production budget, worldwide gross, release date, runtime minutes, and genres. Values from production budget and worldwide gross can be used to calculate ROI and use this value as a measure of success.
 
 ## Results
 
 
+
+
 ## Conclusions
+
+
 
 ## Next Steps
 
+
+
 ## For More Information
+
+
 
 ## Repository Structure
