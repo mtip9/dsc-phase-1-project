@@ -53,11 +53,9 @@ See the full analysis in the [Jupyter Notebook](Movie_Studio_Analysis.ipynb) or 
 ## Repository Structure
 
 ```
-├── ZippedData
+├── Images
+├── zippedData
 ├── Movie_Studio_Analysis.ipynb
 ├── Movie_Studio_Presentation.pdf
-├── README.md
-├── ROI per Month.png
-├── ROI per Movie Length.png
-└── Top Genres in Top 100 ROI.png
+└── README.md
 ```
