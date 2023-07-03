@@ -26,7 +26,7 @@ Films with runtime of 90 minutes or less have the greatest ROI and also cost les
 
 Genres of dramas, horrors, and thrillers are the most represented and profitable genres within the top 100 films within the Top 100 ROI dataframe
 
-![Top Genres in Top 100 ROI](https://github.com/mtip9/dsc-phase-1-project/blob/master/Top%20Genres%20in%20Top%20100%20ROI.png)
+![Top Genres in Top 100 ROI](https://github.com/mtip9/dsc-phase-1-project/blob/master/Images/Top%20Genres%20in%20Top%20100%20ROI.png)
 
 ## Recommendations
 
