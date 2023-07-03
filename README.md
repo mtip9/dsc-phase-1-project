@@ -18,7 +18,7 @@ Access to data of over 1000 films from over the past 100 years. Types of data fo
 
 Films released in the months of July, August, and November have had the greatest ROI.
 
-![ROI per Month](./Images/ROI per Month.png)
+![ROI per Month]([./Images/ROI per Month.png](https://github.com/mtip9/dsc-phase-1-project/blob/master/Images/ROI%20per%20Month.png))
 
 Films with runtime of 90 minutes or less have the greatest ROI and also cost less
 
