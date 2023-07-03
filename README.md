@@ -22,7 +22,7 @@ Films released in the months of July, August, and November have had the greatest
 
 Films with runtime of 90 minutes or less have the greatest ROI and also cost less
 
-![ROI per Movie Length](https://github.com/mtip9/dsc-phase-1-project/blob/master/ROI%20per%20Movie%20Length.png)
+![ROI per Movie Length](https://github.com/mtip9/dsc-phase-1-project/blob/master/Images/ROI%20per%20Movie%20Length.png)
 
 Genres of dramas, horrors, and thrillers are the most represented and profitable genres within the top 100 films within the Top 100 ROI dataframe
 
